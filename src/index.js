@@ -13,6 +13,7 @@ class ServerlessWebpackPrisma {
 
     'node_modules/prisma/**/*',
     'node_modules/.bin/*',
+    'node_modules/@prisma/engines/schema-engine-darwin',
     /*
     'node_modules/prisma/libquery_engine*',
     '!node_modules/prisma/libquery_engine-rhel*',
